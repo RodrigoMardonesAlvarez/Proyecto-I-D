@@ -1,0 +1,13 @@
+
+Acceder a cámara nativa android con React Native
+
+https://www.fullstacklabs.co/blog/react-native-camera
+https://stackoverflow.com/questions/48779869/react-native-access-device-camera-android-specifically
+https://github.com/react-native-camera/react-native-camera (ojo esta ya no tiene soporte de la comunidad)
+https://github.com/mrousavy/react-native-vision-camera (esta si tiene soporte actualmente)
+
+TensorFlow Javascript guías y tutoriales:
+https://www.tensorflow.org/js
+
+Pylon camera software en distintas versiones descargables:
+https://www.baslerweb.com/en/downloads/software-downloads/#type=pylonsoftware;series=baslerace
